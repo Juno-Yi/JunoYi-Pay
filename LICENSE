@@ -1,20 +1,455 @@
-The MIT License (MIT)
+JunoYi Pay Community & Commercial License
+JunoYi Pay 社区与商业授权协议
 
-Copyright (c) 2025 JunoYI
+Version 1.0
+协议版本：1.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+Copyright (c) 2026 Anqing Junyi Network Technology Co., Ltd.
+版权所有 (c) 2026 安庆钧逸网络科技有限公司
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+All rights reserved.
+保留所有权利。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+1. INTRODUCTION
+第一条  协议概述
+
+JunoYi Pay (hereinafter referred to as the "Software") is an
+aggregated payment and cashier system developed and maintained by
+Anqing Junyi Network Technology Co., Ltd. (hereinafter referred to
+as the "Copyright Owner").
+
+JunoYi Pay（以下简称“本软件”）是由安庆钧逸网络科技有限公司
+（以下简称“版权所有者”）开发和维护的聚合支付与收银系统。
+
+This Software adopts a community-use and commercial-licensing model.
+Users may use the Software free of charge for eligible non-commercial
+purposes. Commercial use requires a valid commercial license.
+
+本软件采用社区免费使用与商业授权相结合的许可模式。
+符合条件的非商业用途可以免费使用本软件；商业用途须取得有效的商业授权。
+
+By downloading, installing, copying, modifying, distributing, or
+otherwise using the Software, you agree to comply with this License.
+
+下载、安装、复制、修改、分发或以其他方式使用本软件，
+即表示您同意遵守本协议。
+
+This License is a custom license and is not an OSI-approved
+Open Source License.
+
+本协议属于自定义许可协议，不属于 OSI 认可的标准开源许可证。
+
+
+2. FREE NON-COMMERCIAL USE
+第二条  免费非商业使用
+
+Subject to this License, the Copyright Owner grants eligible users
+a limited, non-exclusive, non-transferable license to use the
+Software for permitted non-commercial purposes.
+
+在遵守本协议的前提下，版权所有者授予符合条件的用户有限的、
+非独占的、不可转让的许可，允许其将本软件用于规定的非商业用途。
+
+2.1 Personal Use
+2.1 个人使用
+
+Individuals may use the Software for personal learning, technical
+research, testing, experimentation, and other non-commercial purposes.
+
+个人用户可以将本软件用于个人学习、技术研究、功能测试、
+技术实验及其他非商业用途。
+
+2.2 Educational Use
+2.2 教育用途
+
+Students may use the Software for coursework, academic research,
+graduation projects, technical experiments, and other eligible
+non-commercial educational activities.
+
+学生可以将本软件用于课程学习、学术研究、毕业设计、
+技术实验及其他符合条件的非商业教育活动。
+
+Student status alone does not authorize commercial use.
+
+仅具有学生身份，并不意味着可以免除商业使用授权要求。
+
+2.3 Non-Profit and Charitable Use
+2.3 非营利与公益用途
+
+Eligible non-profit organizations, charitable organizations,
+and public-benefit organizations may use the Software free of charge
+for qualifying charitable, public-benefit, or non-commercial activities.
+
+符合条件的非营利组织、慈善机构及公益组织，可以将本软件
+免费用于符合条件的慈善、公益或非商业活动。
+
+The eligibility of an organization and its intended use may be
+subject to verification by the Copyright Owner.
+
+版权所有者可以根据组织性质及实际用途核实其免费使用资格。
+
+2.4 Permitted Activities
+2.4 允许的活动
+
+Eligible users may, within the scope of their free-use authorization:
+
+符合免费使用条件的用户，可以在授权范围内：
+
+(a) Download, install, and run the Software.
+    下载、安装和运行本软件。
+
+(b) Read and study the source code.
+    阅读和学习本软件源代码。
+
+(c) Modify the Software for personal learning, research, and testing.
+    为个人学习、研究和测试目的修改本软件。
+
+(d) Create copies reasonably necessary for permitted activities.
+    为开展获准活动制作合理必要的副本。
+
+(e) Use the Software in other activities expressly permitted
+    by this License.
+    将本软件用于本协议明确允许的其他活动。
+
+Free-use authorization does not automatically grant commercial
+deployment, commercial distribution, paid hosting, or other
+commercial rights.
+
+免费使用授权不自动包含商业部署、商业分发、收费托管服务
+或其他商业使用权。
+
+
+3. COMMERCIAL LICENSE
+第三条  商业授权
+
+Commercial use requires a valid commercial license issued by
+the Copyright Owner, unless otherwise expressly authorized in writing.
+
+除非版权所有者另行书面授权，商业用途必须取得版权所有者
+签发的有效商业授权。
+
+3.1 Definition of Commercial Use
+3.1 商业用途的定义
+
+Commercial use includes, but is not limited to:
+
+商业用途包括但不限于：
+
+(a) Using the Software in a business operated for profit.
+    将本软件用于以营利为目的的经营活动。
+
+(b) Integrating the Software into a commercial product or service.
+    将本软件集成到商业产品或服务中。
+
+(c) Developing commercial software or solutions based on the Software.
+    基于本软件开发商业软件或解决方案。
+
+(d) Providing paid deployment, hosting, operation, or technical
+    services based on the Software.
+    基于本软件提供收费部署、托管、运营或技术服务。
+
+(e) Using the Software as part of a paid service offered to customers.
+    将本软件作为面向客户提供的收费服务的一部分。
+
+Whether a particular activity constitutes commercial use shall
+be determined according to its actual circumstances and the
+applicable commercial license terms.
+
+某项活动是否构成商业用途，应根据实际情况及适用的商业授权条款判断。
+
+3.2 One-Time Commercial License
+3.2 一次性商业授权
+
+The Copyright Owner may offer commercial licenses on a one-time
+payment basis.
+
+版权所有者可以提供一次性付费的商业授权。
+
+After payment and issuance of a valid license, the licensee may
+perpetually use the version and within the scope specified in
+the applicable commercial license.
+
+被授权人完成付款并取得有效授权后，可以在相应商业授权规定的
+范围内永久使用指定版本。
+
+Unless expressly included in the commercial license, a one-time
+payment does not automatically include future upgrades, maintenance,
+technical support, or custom development.
+
+除非商业授权明确包含，一次性付款不自动包含未来版本升级、
+维护、技术支持或定制开发服务。
+
+3.3 Scope of Commercial Authorization
+3.3 商业授权范围
+
+The applicable commercial license may specify the authorized entity,
+version, deployment scope, permitted use, redistribution rights,
+and other relevant conditions.
+
+具体商业授权文件可以规定被授权主体、授权版本、部署范围、
+允许的使用方式、再分发权利及其他相关条件。
+
+The licensee must not exceed the scope of the authorization granted.
+
+被授权人不得超出已取得的授权范围使用本软件。
+
+
+4. MODIFICATION AND DERIVATIVE DEVELOPMENT
+第四条  修改与二次开发
+
+Subject to the applicable license, users may modify, extend, adapt,
+integrate, and develop derivative works based on the Software.
+
+在适用授权允许的范围内，用户可以修改、扩展、适配、集成
+本软件，并基于本软件开展二次开发。
+
+Users retain the rights they lawfully hold in their independently
+created original code.
+
+用户依法享有其独立创作的原创代码所对应的权利。
+
+However, modifying, renaming, repackaging, or otherwise changing
+the Software does not automatically eliminate the licensing
+requirements applicable to the original Software.
+
+但是，修改、重命名、重新打包或以其他方式变更本软件，
+并不自动免除原软件适用的授权要求。
+
+Users must not use modifications or derivative works to circumvent
+the commercial licensing requirements of this License.
+
+用户不得利用修改版本或衍生作品规避本协议规定的商业授权要求。
+
+
+5. REDISTRIBUTION AND RESALE RESTRICTIONS
+第五条  再分发与转售限制
+
+Unless expressly authorized in writing by the Copyright Owner,
+users must not:
+
+除非版权所有者事先明确书面授权，用户不得：
+
+(a) Sell the Software as a standalone software product.
+    将本软件作为独立软件产品出售。
+
+(b) Repackage and sell the Software as a separate commercial product.
+    将本软件重新包装后作为独立商业产品销售。
+
+(c) Grant third parties rights beyond those permitted by the
+    applicable license.
+    向第三方授予超出适用许可范围的权利。
+
+(d) Resell, sublicense, or otherwise distribute the Software in a
+    manner intended to circumvent the commercial licensing terms.
+    以规避商业授权条款为目的转售、再许可或分发本软件。
+
+(e) Remove or alter copyright notices, license notices, or
+    other ownership notices.
+    删除或篡改版权声明、许可声明或其他权利标识。
+
+Integration into another product, delivery to customers, and
+redistribution of modified versions must comply with the applicable
+commercial license and any relevant third-party licenses.
+
+将本软件集成到其他产品、向客户交付或再分发修改版本，
+必须遵守适用的商业授权条款及相关第三方许可证。
+
+Specific redistribution and delivery rights shall be determined
+by the applicable written authorization.
+
+具体再分发及交付权利，以适用的书面授权文件为准。
+
+
+6. INTELLECTUAL PROPERTY
+第六条  知识产权
+
+The Software and its original code, documentation, designs, and
+other protected materials remain the property of their respective
+lawful rights holders.
+
+本软件及其原始代码、文档、设计和其他受法律保护的材料，
+仍归各自合法权利人所有。
+
+This License grants only the rights expressly stated herein.
+It does not transfer ownership of the Software, trademarks,
+or other intellectual property.
+
+本协议仅授予其中明确规定的权利，不构成对本软件所有权、
+商标权或其他知识产权的转让。
+
+Users must not represent themselves as the Copyright Owner,
+an official maintainer, or an authorized representative without
+appropriate authorization.
+
+未经适当授权，用户不得将自己宣称为版权所有者、官方维护者
+或官方授权代表。
+
+Third-party components remain subject to their respective
+licenses and terms.
+
+第三方组件仍受各自适用的许可证及相关条款约束。
+
+Nothing in this License overrides or replaces the licenses
+applicable to third-party components.
+
+本协议不取代、不修改也不覆盖第三方组件适用的许可证。
+
+
+7. SECURITY AND LEGAL COMPLIANCE
+第七条  安全与法律合规
+
+The Software may be used for payment order management, payment
+channel integration, transaction inquiries, refund processing,
+and other payment-related operations.
+
+本软件可能用于支付订单管理、支付渠道接入、交易查询、
+退款处理及其他支付相关业务。
+
+Users are responsible for ensuring that their use of the Software
+complies with applicable laws, regulations, payment-provider terms,
+and technical requirements.
+
+用户应自行确保其对本软件的使用符合适用法律法规、
+支付机构服务条款及相关技术要求。
+
+Users are responsible for protecting merchant credentials,
+certificates, sensitive information, and transaction data.
+
+用户应自行负责商户密钥、证书、敏感信息及交易数据的安全保护。
+
+Users must independently verify payment notifications, transaction
+amounts, transaction states, and other security-critical operations
+before deploying the Software in production.
+
+用户在生产环境部署本软件前，应自行验证支付通知、
+交易金额、交易状态及其他关键安全操作。
+
+The Copyright Owner does not automatically become a payment service
+provider, merchant, or financial intermediary merely by licensing
+the Software.
+
+版权所有者不会仅因授权本软件而自动成为支付服务提供者、
+商户或金融中介机构。
+
+Users must not use the Software for unlawful activities.
+
+用户不得将本软件用于违法活动。
+
+
+8. DISCLAIMER OF WARRANTY
+第八条  免责声明
+
+To the maximum extent permitted by applicable law, the Software
+is provided "AS IS", without warranties of any kind, whether
+express or implied, except where expressly agreed in writing.
+
+在适用法律允许的最大范围内，本软件按“现状”提供，
+不作任何明示或默示的保证，但双方另有明确书面约定的除外。
+
+The Copyright Owner does not guarantee that the Software will be
+uninterrupted, error-free, secure in every environment, or suitable
+for every particular purpose.
+
+版权所有者不保证本软件持续不中断、完全无错误、在所有环境中
+均绝对安全，或适用于所有特定用途。
+
+Users are responsible for testing, security assessment, deployment,
+and operational decisions relating to their use of the Software.
+
+用户应自行负责与其使用本软件有关的测试、安全评估、
+部署及运营决策。
+
+Nothing in this section excludes or limits liability that cannot
+be excluded or limited under applicable law.
+
+本条不排除或限制适用法律规定不得排除或限制的责任。
+
+
+9. TERMINATION
+第九条  授权终止
+
+If a user materially violates this License, the Copyright Owner
+may request that the violation be remedied or that the unauthorized
+use cease, subject to applicable law.
+
+用户严重违反本协议时，版权所有者可以依法要求其纠正违约行为，
+或停止未经授权的使用。
+
+Where permitted by applicable law, authorization may be terminated
+if a material violation is not remedied within a reasonable period
+after notice.
+
+在适用法律允许的范围内，重大违约行为在收到通知后未于合理期限内
+得到纠正的，相应授权可以终止。
+
+Termination does not affect rights and obligations that accrued
+before termination or provisions that are required to survive
+under applicable law.
+
+授权终止不影响终止前已经产生的权利义务，也不影响依照适用法律
+应当继续有效的条款。
+
+
+10. CHANGES TO THIS LICENSE
+第十条  协议修改
+
+The Copyright Owner may publish revised license terms for future
+versions of the Software.
+
+版权所有者可以为本软件的后续版本发布修订后的许可条款。
+
+Unless expressly agreed otherwise, publishing a revised license
+does not automatically change the scope of an existing valid
+commercial license.
+
+除非另有明确约定，发布修订后的许可协议不会自动改变
+既有有效商业授权的范围。
+
+
+11. GOVERNING LAW AND DISPUTE RESOLUTION
+第十一条  适用法律与争议解决
+
+This License shall be governed by the laws of the People's
+Republic of China, subject to applicable mandatory rules.
+
+本协议适用中华人民共和国法律，但应遵守适用的强制性法律规定。
+
+The parties shall first attempt to resolve disputes through
+friendly consultation. If consultation fails, either party may
+bring a claim before a court of competent jurisdiction.
+
+因本协议产生的争议，双方应首先通过友好协商解决；
+协商不成的，任何一方均可依法向有管辖权的人民法院提起诉讼。
+
+
+12. CONTACT
+第十二条  联系方式
+
+Copyright Owner:
+Anqing Junyi Network Technology Co., Ltd.
+
+版权所有者：
+安庆钧逸网络科技有限公司
+
+Project:
+JunoYi Pay
+
+项目名称：
+JunoYi Pay
+
+Website:
+https://junoyi.com
+
+官方网站：
+https://junoyi.com
+
+For commercial licensing, permissions, and other inquiries,
+please contact the Copyright Owner through its official channels.
+
+有关商业授权、许可及其他事宜，请通过版权所有者的官方渠道联系。
+
+Rights not expressly granted under this License are reserved,
+subject to applicable law.
+
+除适用法律另有规定外，本协议未明确授予的权利均予以保留。
